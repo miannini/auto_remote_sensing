@@ -1,6 +1,9 @@
 fiona==1.8.20
 gdal==3.2.2
 geopandas==0.9.0
+geopandas-base==0.9.0
+geos==3.9.1
+geotiff==1.6.0
 glob2==0.7
 google-api-core==1.25.0
 google-api-python-client==1.12.8
@@ -11,6 +14,11 @@ grpcio==1.30.0
 html2text==2020.1.16
 httplib2==0.18.1
 jsonschema==3.2.0
+libgdal==3.2.2
+libglib==2.68.3
+libspatialindex==1.9.3
+libspatialite==5.0.1
+libtiff==4.3.0
 matplotlib==3.2.2
 numpy==1.19.5
 opencv-python==4.5.3.56
